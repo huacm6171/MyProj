@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCam", "WebCam\WebCam.csproj", "{99F7C0BB-66FA-4D3B-B1C4-5EA813330552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{2D7D757A-251D-493C-A115-140B062DBDBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F7C0BB-66FA-4D3B-B1C4-5EA813330552}.Debug|x86.ActiveCfg = Debug|x86
+		{99F7C0BB-66FA-4D3B-B1C4-5EA813330552}.Debug|x86.Build.0 = Debug|x86
+		{99F7C0BB-66FA-4D3B-B1C4-5EA813330552}.Release|x86.ActiveCfg = Release|x86
+		{99F7C0BB-66FA-4D3B-B1C4-5EA813330552}.Release|x86.Build.0 = Release|x86
+		{2D7D757A-251D-493C-A115-140B062DBDBC}.Debug|x86.ActiveCfg = Debug|x86
+		{2D7D757A-251D-493C-A115-140B062DBDBC}.Debug|x86.Build.0 = Debug|x86
+		{2D7D757A-251D-493C-A115-140B062DBDBC}.Release|x86.ActiveCfg = Release|x86
+		{2D7D757A-251D-493C-A115-140B062DBDBC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

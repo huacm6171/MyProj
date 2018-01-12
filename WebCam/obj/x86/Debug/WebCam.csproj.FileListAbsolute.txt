@@ -1,0 +1,15 @@
+D:\360Downloads\CSharp\WebCam\WebCam\bin\Debug\WebCam.exe
+D:\360Downloads\CSharp\WebCam\WebCam\bin\Debug\WebCam.pdb
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\WebCam.Properties.Resources.resources
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\WebCam.csproj.GenerateResource.Cache
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\WebCam.exe
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\WebCam.pdb
+D:\360Downloads\CSharp\WebCam\WebCam\bin\Debug\Interop.AXVLC.dll
+D:\360Downloads\CSharp\WebCam\WebCam\bin\Debug\AxInterop.AXVLC.dll
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\Interop.AXVLC.dll
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\AxInterop.AXVLC.dll
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\WebCam.csproj.ResolveComReference.cache
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\WebCam.Form1.resources
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\WebCam.Replay.resources
+D:\360Downloads\CSharp\WebCam\WebCam\bin\Debug\Config.xml
+D:\360Downloads\CSharp\WebCam\WebCam\obj\x86\Debug\WebCam.ReplayTree.resources

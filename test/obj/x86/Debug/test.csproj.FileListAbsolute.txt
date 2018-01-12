@@ -1,0 +1,4 @@
+D:\360Downloads\CSharp\WebCam\test\bin\Debug\test.exe
+D:\360Downloads\CSharp\WebCam\test\bin\Debug\test.pdb
+D:\360Downloads\CSharp\WebCam\test\obj\x86\Debug\test.exe
+D:\360Downloads\CSharp\WebCam\test\obj\x86\Debug\test.pdb
